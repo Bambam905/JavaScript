@@ -1,4 +1,4 @@
-# JavaScript repository 
+# JavaScript 
 
 This is a repository for learning about javascript and is framworks
 
